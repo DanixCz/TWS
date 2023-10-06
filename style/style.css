@@ -1,0 +1,13 @@
+body{ /*altgr +b/n */
+     margin: 0;
+     padding: 0;
+     background-color: deeppink;
+}
+
+.okenko{
+    background-color: white;
+    margin: 16px; /*vnější odsazení*/
+    padding: 16px; /*vnitřní odsazení*/
+    border: 1px azure;
+    border-radius: 15px;
+}
